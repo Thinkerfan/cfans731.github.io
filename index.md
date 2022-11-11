@@ -1,6 +1,6 @@
-## 长沙超飞哥网络技术有限公司
+## 长沙超飞哥网络科技有限公司
 
-###### 天天猜剧
+###### 休息休息吧
 
 ![logo](https://appimg.dbankcdn.com/application/icon144/a8ac7dd866064325bc5cad88a57696f6.png)    
 ![展示图](https://appimg.dbankcdn.com/application/screenshut1/a8ac7dd866064325bc5cad88a57696f6.jpg)
@@ -16,4 +16,4 @@
 
 
 
-[湘ICP备2022010951号 长沙超飞哥网络技术有限公司](http://beian.miit.gov.cn/) 
+[湘ICP备2022010951号 长沙超飞哥网络科技有限公司](http://beian.miit.gov.cn/) 
